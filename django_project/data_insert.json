@@ -1,0 +1,38 @@
+[
+  {
+    "title": "My Bulk Insert Post 1",
+    "content": " This post has lot of content",
+    "user_id": 1
+  },
+  {
+    "title": "My Bulk Insert Post 2",
+    "content": " This post has lot of content",
+    "user_id": 2
+  },
+  {
+    "title": "Plan to succeed ",
+    "content": " This post has lot of content",
+    "user_id": 2
+  },
+  {
+    "title": "My Bulk Insert Post 4",
+    "content": " hahaha 4"  ,
+    "user_id": 4
+  },
+  {
+    "title": "My Bulk Insert Post 5",
+    "content": " This post has lot of content",
+    "user_id": 2
+  },
+  {
+    "title": "My Bulk Insert Post 6",
+    "content": " This post has lot of content",
+    "user_id": 4
+  },
+  {
+    "title": "My Bulk Insert Post 7",
+    "content": " This post has lot of content",
+    "user_id": 7
+  }
+
+]

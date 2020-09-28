@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4017a33b-3e0b-485a-b496-e2904c211161" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gmG56D2N6RXEwDUlB4dPaPHufb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MayankPC\OneDrive\BSCS IX Knowledge BANK\PYTHON\cary_tutorial\django_project" />
+      <recent name="C:\Users\MayankPC\OneDrive\BSCS IX Knowledge BANK\PYTHON\cary_tutorial\django_project\django_project" />
+      <recent name="C:\Users\MayankPC\OneDrive\BSCS IX Knowledge BANK\PYTHON\cary_tutorial\django_project\blog\templates\blog" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4017a33b-3e0b-485a-b496-e2904c211161" name="Default Changelist" comment="" />
+      <created>1598712168115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598712168115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="97" key="#Inspections" timestamp="1598894989747">
+      <screen x="0" y="0" width="1460" height="864" />
+    </state>
+    <state x="646" y="97" key="#Inspections/0.0.1460.864@0.0.1460.864" timestamp="1598894989747" />
+    <state x="633" y="153" key="DBNavigator.DatasetFilterDialog" timestamp="1600341722899">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="633" y="153" key="DBNavigator.DatasetFilterDialog/0.0.1471.864@0.0.1471.864" timestamp="1600341722899" />
+    <state x="522" y="93" key="DBNavigator.ProjectSettingsDialog" timestamp="1598715015979">
+      <screen x="0" y="0" width="1460" height="864" />
+    </state>
+    <state x="522" y="93" key="DBNavigator.ProjectSettingsDialog/0.0.1460.864@0.0.1460.864" timestamp="1598715015979" />
+    <state x="772" y="193" key="FileChooserDialogImpl" timestamp="1598715004682">
+      <screen x="0" y="0" width="1460" height="864" />
+    </state>
+    <state x="772" y="193" key="FileChooserDialogImpl/0.0.1460.864@0.0.1460.864" timestamp="1598715004682" />
+  </component>
+</project>
