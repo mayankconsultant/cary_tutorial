@@ -26,7 +26,7 @@ SECRET_KEY = 'c=e-617%uezfoed^vp77y=0(y8i+&=%x8ly^a%$_*q8smfxt1#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.137.14', '127.0.0.1']
 
 
 # Application definition
@@ -38,9 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-     'blog.apps.BlogConfig',
+    'blog.apps.BlogConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
+    'TODO.apps.TodoConfig'
 ]
 
 MIDDLEWARE = [
@@ -123,11 +124,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-MEDIA_ROOT = os.path.join(BASE_DIR,'media')
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 LOGIN_REDIRECT_URL = 'profile'
 
-LOGIN_URL ='login'
+LOGIN_URL = 'login'

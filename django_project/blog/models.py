@@ -5,14 +5,14 @@ from django.urls import reverse
 # Create your models here.
 
 
-class Post(models.Model) :
-    title=models.CharField(max_length=100)
+class Post(models.Model):
+    title = models.CharField(max_length=100)
     content = models.TextField()
     date_posted = models.DateTimeField(default=timezone.now)
-    author = models.ForeignKey(User,on_delete=models.CASCADE)
+    author = models.ForeignKey(User, null=True, on_delete=models.SET_NULL)
 
     def __str__(self):
         return self.title
 
     def get_absolute_url(self):
-        return reverse('post-detail',kwargs={'pk': self.pk})
+        return reverse('post-detail', kwargs={'pk': self.pk})
